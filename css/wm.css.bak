@@ -3,9 +3,9 @@
 :root {
     /* Colours */
     --nsw-brand-dark: #FAAF05;
-    --nsw-brand-light: var(--nsw-palette-blue-04);
+    --nsw-brand-light: var(--nsw-palette-yellow-02);
     --nsw-brand-accent: #FAAF05;
-    --nsw-brand-supplementary: var(--nsw-palette-y-02);
+    --nsw-brand-supplementary: var(--nsw-palette-yellow-02);
   
     --nsw-text-dark: var(--nsw-palette-grey-01);
     --nsw-text-light: var(--nsw-palette-white);
