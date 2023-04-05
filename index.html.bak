@@ -64,33 +64,26 @@
           <span>Home</span>
         </a>    </li>
       <li>
-        <a href="./start-here.html">
-          <span>Start Here</span>
+        <a href="./introduction.html">
+          <span>Introduction</span>
           </a>    </li>
       <li>
-        <a href="./about.html">
-          <span>About</span>
+        <a href="./history.html">
+          <span>History</span>
         </a>    </li>
       <li>
-        <a href="https://ht.harlonserver.net" target="_blank" rel="noopener noreferrer">
-          <span>HarlonTransit</span>
+        <a href="./transit.html" target="_blank" rel="noopener noreferrer">
+          <span>West Metro Transit System</span>
         </a>    </li>
   <!--<li>
-          <a href="https://dynmap.harlonserver.net" target="_blank" rel="noopener noreferrer">
-            <span>Government</span>
+          <a href="./updatelog.html" target="_blank" rel="noopener noreferrer">
+            <span>West Metro Update Logs</span>
           </a>    </li>-->
       <li>
-        <a href="https://wiki.harlonserver.net" target="_blank" rel="noopener noreferrer">
-          <span>Wiki</span>
+        <a href="./interactivemap.html" target="_blank" rel="noopener noreferrer">
+          <span>Interactive Map</span>
         </a>    </li>
       <li>
-        <a href="https://dynmap.harlonserver.net" target="_blank" rel="noopener noreferrer">
-          <span>Dynmap</span>
-        </a>    </li>
-        <li>
-          <a href="./vote.html">
-            <span>Vote</span>
-          </a>    </li>
         
     </ul>
   </nav>
