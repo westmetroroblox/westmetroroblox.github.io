@@ -103,10 +103,11 @@
     <div class="nsw-hero-banner__container">
       <div class="nsw-hero-banner__wrapper">
         <div class="nsw-hero-banner__content">
-          <h1>Welcome to Harlon.</h1>
-          <p class="nsw-intro">A City-RP Minecraft server with a flourishing community and amazing player experiences.</p>
-          <p class="nsw-intro">Join now at <strong>play.harlonserver.net</strong> - 1.17-1.19 recommended, 1.9+ supported</p>
-          <a href="https://discord.gg/qMmk8MuEBz" class="nsw-button nsw-button--white" target="_blank" rel="noreferrer noopener">Join our Discord Server</a></p>
+          <h1>Welcome to West Metro.</h1>
+          <p class="nsw-intro">A Roblox Automatic Transit game aiming to move everyone from one place to another.</p>
+          <p class="nsw-intro">Play the game now on Roblox on Mobile, Tablet or PC. (Console not supported)</p>
+          <a href="https://www.roblox.com/groups/8471677/West-Metro#!/about" class="nsw-button nsw-button--white" target="_blank" rel="noreferrer noopener">Roblox Group Link</a></p>
+          <a href="https://discord.gg/ZprRZvRM6J" class="nsw-button nsw-button--white" target="_blank" rel="noreferrer noopener">Join our Discord Server</a></p>
         </div>
         <div class="nsw-hero-banner__box">
           <img class="nsw-hero-banner__image" src="./img/hero.png" alt="Image of the Harlon City skyline." />
