@@ -277,21 +277,15 @@
 <footer class="nsw-footer nsw-footer--dark">
   <div class="nsw-footer__lower">
     <div class="nsw-container">
-      <p>IP: <strong>play.harlonserver.net (Minecraft 1.17-1.19 recommended)</strong></p>
       <hr>
       <ul>
-        <li><a href="https://discord.gg/qMmk8MuEBz" target="_blank" rel="noopener noreferrer">Discord</a></li>
-        <li><a href="https://youtube.com/channel/UCUsBniuYo4fKNWy-PcAoDNg" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-        <li><a href="https://twitter.com/HarlonServer" target="_blank" rel="noopener noreferrer">Twitter</a></li>
-        <li><a href="https://www.tiktok.com/@harlonserver" target="_blank" rel="noopener noreferrer">Tiktok</a></li>
-        <li><a href="https://www.github.com/HarlonServer" target="_blank" rel="noopener noreferrer">GitHub</a></li>
-        <li><a href="https://store.harlonserver.net" target="_blank" rel="noopener noreferrer">Server Store</a></li>
-        <li><a href="./vote.html">Vote</a></li>
+        <li><a href="https://discord.gg/ZprRZvRM6J" target="_blank" rel="noopener noreferrer">Discord Server</a></li>
         <li><a href="./credits.html">Credits</a></li>
       </ul>
       <div class="nsw-footer__info">
-        <div class="nsw-footer__copyright">Copyright © Harlon City Server</div>
+        <div class="nsw-footer__copyright">Copyright © West Metro</div>
         <div class="nsw-footer__built">Based on the <a href="https://github.com/digitalnsw/nsw-design-system" target="_blank" rel="noopener noreferrer">NSW Design System</a></div>
+        <div class="nsw-footer__copyright">Website Structure idea from Harlon City Server</div>
       </div>
     </div>
   </div>
