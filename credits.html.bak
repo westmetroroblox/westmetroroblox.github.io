@@ -28,7 +28,7 @@
     <div class="nsw-container"><strong>Downtown Line is currently OFF SERVICE! Please choose another route if you are planning to ride via the Downtown Line.</strong></div>
   </div>
 
-   <header class="nsw-header">
+  <header class="nsw-header">
     <div class="nsw-header__container">
       <div class="nsw-header__inner">
         <div class="nsw-header__main">
@@ -75,10 +75,14 @@
         <a href="./transit.html" target="_blank" rel="noopener noreferrer">
           <span>West Metro Transit System</span>
         </a>    </li>
-  <!--<li>
+      <li>
           <a href="./updatelog.html" target="_blank" rel="noopener noreferrer">
             <span>West Metro Update Logs</span>
-          </a>    </li>-->
+          </a>    </li>
+      <li>
+          <a href="./gallery.html" target="_blank" rel="noopener noreferrer">
+            <span>Image Gallery Hub</span>
+          </a>    </li>
       <li>
         <a href="./interactivemap.html" target="_blank" rel="noopener noreferrer">
           <span>Interactive Map</span>
