@@ -1,5 +1,7 @@
 <!doctype html>
 <html class="js" lang="en">
+<script src="https://westmetrotransitstatus.statuspage.io/embed/script.js"></script>
+
 
 <head>
   <meta charset="utf-8">
