@@ -1,5 +1,7 @@
 <!doctype html>
 <html class="js" lang="en">
+<script src="https://westmetrotransitstatus.statuspage.io/embed/script.js"></script>
+
 
 <head>
   <meta charset="utf-8">
@@ -19,14 +21,19 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nsw-design-system@3/dist/css/main.css">
   <link rel="stylesheet" href="css/wm.css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
-  <nav class="nsw-skip nsw-skip--light" aria-label="Skip to links">
-    <a href="#"><span>Skip to navigation</span></a>
-    <a href="#"><span>Skip to content</span></a>
-  </nav>
-  <div class="nsw-masthead nsw-masthead--light">
-    <div class="nsw-container"><strong>Downtown Line is currently OFF SERVICE! Please choose another route if you are planning to ride via the Downtown Line.</strong></div>
+  
+  <div class="nsw-global-alert nsw-global-alert--critical js-global-alert" role="alert">
+  <div class="nsw-global-alert__wrapper">
+    <div class="nsw-global-alert__content">
+      <div class="nsw-global-alert__title">Weather & Track Emergency</div>
+      <p>Catastrophic weather conditions are forecast this month for outdoor areas of Transportation Academy, Downtown Line is temporarily suspended meanwhile the heavy weather is ongoing during the season. Please seek alternative routes. <a href="#">Read all Service Updates</a></p>
+    </div>
+    <button class="nsw-icon-button js-close-alert" type="button" aria-expanded="true">
+      <span class="material-icons nsw-material-icons" focusable="false" aria-hidden="true">close</span>
+      <span class="sr-only">Close message</span>
+    </button>
   </div>
+</div>
 
   <header class="nsw-header">
     <div class="nsw-header__container">
