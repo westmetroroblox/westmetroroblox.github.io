@@ -26,7 +26,7 @@
   <div class="nsw-global-alert__wrapper">
     <div class="nsw-global-alert__content">
       <div class="nsw-global-alert__title">Weather & Track Emergency</div>
-      <p>Catastrophic weather conditions are forecast this month for outdoor areas of Transportation Academy, Downtown Line is temporarily suspended meanwhile the heavy weather is ongoing during the season. Please seek alternative routes. <a href="#">Read all Service Updates</a></p>
+      <p>Catastrophic weather conditions are forecast this month for outdoor areas of Transportation Academy, Downtown Line is temporarily suspended meanwhile the heavy weather is ongoing during the season. Please seek alternative routes. <a href="https://westmetrotransitstatus.statuspage.io/">Read all Service Updates</a></p>
     </div>
     <button class="nsw-icon-button js-close-alert" type="button" aria-expanded="true">
       <span class="material-icons nsw-material-icons" focusable="false" aria-hidden="true">close</span>
